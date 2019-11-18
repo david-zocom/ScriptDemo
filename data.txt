@@ -1,0 +1,10 @@
+Vad händer nu?
+Andra försöket
+bin/
+data.txt
+hello.sh*
+hello-kopia.sh*
+obj/
+Program.cs
+ScriptDemo.csproj
+ScriptDemo.sln
